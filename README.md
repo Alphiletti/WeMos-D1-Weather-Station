@@ -23,11 +23,11 @@ ESP8266 based weather station. It request from the [OpenWeather](https://openwea
 
 **<u>Images</u>**
 
-![](images\img1.png)
+![Test1](images\img1.png)
 
 <img src="images\gif2.gif" width="360" height="304">
 
-![](images\log.png)
+![Test2](images\log.png)
 
 <u>**Code**</u>
 
