@@ -16,18 +16,18 @@ ESP8266 based weather station. It request from the [OpenWeather](https://openwea
 
 [imgur](https://imgur.com/a/DNQjxUj)
 
-![Schmatic](C:\Users\Alp Eren\Desktop\ESP8266 Weather Station\images\sketch.png)
+![Schmatic](images\sketch.png)
 
 
 ​    
 
 **<u>Images</u>**
 
-![](C:\Users\Alp Eren\Desktop\ESP8266 Weather Station\images\img1.png)
+![](images\img1.png)
 
-<img src="C:\Users\Alp Eren\Desktop\ESP8266 Weather Station\images\gif2.gif" width="360" height="304">
+<img src="images\gif2.gif" width="360" height="304">
 
-![](C:\Users\Alp Eren\Desktop\ESP8266 Weather Station\images\log.png)
+![](images\log.png)
 
 <u>**Code**</u>
 
